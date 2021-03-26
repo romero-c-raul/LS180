@@ -1,0 +1,3 @@
+/*
+Nullable column displays not null for all columns
+*/
