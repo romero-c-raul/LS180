@@ -1,0 +1,6 @@
+id,role,user_id
+1,Admin,2
+2,Member,3
+3,Admin,1
+4,Member,4
+5,Editor,5
